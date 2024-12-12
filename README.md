@@ -1,5 +1,4 @@
-# Zomato-chatbot-with-chainlit
-# Zomato OrderBot Chat Application
+# Zomato OrderBot Chat Application with Chainlit
 
 ## 📋 **Project Overview**
 Zomato OrderBot is an AI-powered chatbot application that allows users to place orders for food items via an interactive chat interface. The assistant helps users browse the menu, select items, choose between delivery or pickup, and process payment in a friendly and conversational manner.
